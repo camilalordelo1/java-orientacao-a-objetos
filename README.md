@@ -1,4 +1,4 @@
 # Aprendendo fundamentos de java
-Repositório referente ao aprendizado realizado no curso Java OO: Entendendo a Orientação a Objetos da ALURA.
+Repositório referente ao aprendizado realizado no curso "Java OO: Entendendo a Orientação a Objetos da ALURA".
 <br>
-LINK AQUI: https://cursos.alura.com.br/course/java-introducao-orientacao-objetos/
+<b>LINK AQUI: https://cursos.alura.com.br/course/java-introducao-orientacao-objetos/</b>
